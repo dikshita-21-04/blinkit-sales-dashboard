@@ -31,4 +31,4 @@ This dashboard showcases key insights from sales data across different outlet ty
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](dashboard.png)
